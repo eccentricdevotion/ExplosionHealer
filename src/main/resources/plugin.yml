@@ -1,0 +1,7 @@
+author: eccentric_nz
+description: Restores blocks that have been exploded after a set amount of time.
+main: me.eccentric_nz.explosionhealer.ExplosionHealer
+name: ExplosionHealer
+load: POSTWORLD
+version: 1.0.2
+api-version: 1.18

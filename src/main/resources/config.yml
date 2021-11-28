@@ -1,0 +1,9 @@
+restore:
+  tnt: true
+  creeper: true
+  wither: true
+  bed: true
+delay:
+  min: 60
+  max: 140
+yield: 0
